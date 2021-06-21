@@ -1,4 +1,4 @@
-asdfasdfasdfasdfasdf#! /bin/sh
+afasdfasdfasdfasdfasdf#! /bin/sh
 
 if ! git remote | grep TFS > /dev/null; then
     echo cacca
